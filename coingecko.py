@@ -1,9 +1,9 @@
 import json
 import urllib.request
-from lists import nstlist
+from lists import coingeckolist
 
 def handleCoingecko(message, resultMessage):
-    if message.text.upper() in nstlist:
+    if message.text.upper() in coingeckolist:
         upperMessage = message.text.upper()
         user_agent = 'Mozilla/5.0'
         url = "https://api.coingecko.com/api/v3/coins/ninja-squad/"

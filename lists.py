@@ -2,6 +2,6 @@ binancelist = ['LUNA', 'UST', '1INCH', 'AAVE', 'ACA', 'ACH', 'ACM', 'ADA', 'ADX'
 currencylist = ['DOLAR', 'USD']
 gaslist = ['GAS']
 mexclist = ['ELON', 'LOOKS', 'FITFI', 'GST']
-nstlist = ['NST']
+coingeckolist = ['NST']
 okxlist = ['FITFI']
 paribulist = ['AAVE', 'ACM', 'ADA', 'AFC', 'ALGO', 'ALICE', 'ANKR', 'APE', 'ASM', 'ASR', 'ATLAS', 'ATM', 'ATOM', 'AUDIO', 'AVAX', 'AXS', 'BAL', 'BAND', 'BAR', 'BAT', 'BCH', 'BTC', 'BTTC', 'CEEK', 'CHZ', 'CITY', 'CLV', 'CRV', 'DOGE', 'DOT', 'ENJ', 'ENS', 'EOS', 'ETH', 'FB', 'FTM', 'GAL', 'GOZ', 'GRT', 'HOT', 'ICP', 'INJ', 'INTER', 'JUV', 'KEEP', 'LINK', 'LPT', 'LRC', 'LTC', 'MANA', 'MATIC', 'MINA', 'MIOTA', 'MKR', 'NAP', 'NEO', 'OGN', 'OMG', 'ONT', 'OXT', 'PRB', 'PSG', 'RACA', 'REEF', 'RVN', 'SAND', 'SHIB', 'SOL', 'THETA', 'TLM', 'TRA', 'TRX', 'TRYC', 'TVK', 'UMA', 'UNI', 'USDT', 'USDC', 'VCF', 'VET', 'WAVES', 'XLM', 'XRP', 'XTZ', 'ZIL']
