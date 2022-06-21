@@ -27,3 +27,7 @@ In **"lists.py",** you can see the lists of coins or keywords. They can be adjus
 ## Usage 
 
 Usage is typing the symbol of the currency in chat without slash. Examples: BTC, ETH, USD, BNB, USDT, EUR, GAS
+
+## Extra Commands
+
+If you want to check Top 5 gainers or losers on Binance, you can type **gainers** or **losers**.
