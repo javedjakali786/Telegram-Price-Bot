@@ -19,6 +19,8 @@ pip  install  pyTelegramBotAPI
  - If you want to get Gas Price on Ethereum Chain, you need to get a
    Etherscan API key from etherscan.io.
    Then, fill the **"etherscankey"** string in **"keys.py"**.
+   
+**run using python3 main.py**
 
 ## Lists
 
